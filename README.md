@@ -2,4 +2,4 @@
 cmudict as a json file
 
 Use this in javascript:
-https://jsfiddle.net/tm8fh30x/7/
+https://jsfiddle.net/m2xbya05/
